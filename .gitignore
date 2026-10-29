@@ -1,0 +1,5 @@
+# Datos personales del alumnado (menores, datos de NEE): nunca se suben al repositorio
+alumnos/*
+!alumnos/.gitkeep
+*.docx
+*.pdf
