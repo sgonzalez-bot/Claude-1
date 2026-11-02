@@ -13,6 +13,8 @@ Agente de Claude Code que junta el **currículo LOMLOE de Primaria de la Comunid
 | `plantillas/02-acis.md` | ACIS por área |
 | `plantillas/03-previo-piec.md` | Plan previo de inicio de curso (medidas provisionales AACC) |
 | `plantillas/04-piec.md` | PIEC definitivo |
+| `.claude/agents/rubricas-bloom.md` | Agente experto y crítico en rúbricas de un solo punto con taxonomía de Bloom |
+| `referencia/rubrica-un-punto-bloom.md` | Modelo de rúbrica del centro, base teórica, casos de niveles salteados y objeciones del claustro |
 | `alumnos/` | Documentos generados con datos del alumnado. **Excluida de git.** |
 
 ## Cómo usarlo
