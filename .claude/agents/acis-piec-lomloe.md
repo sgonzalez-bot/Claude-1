@@ -18,7 +18,7 @@ Lee siempre esos ficheros antes de redactar. Escribe en castellano, en el regist
 | DEA, TDAH, retraso madurativo, NEAE sin desfase significativo | Ficha de adaptaciones metodológicas y no significativas (DUA) | `plantillas/01-adaptaciones-no-significativas.md` |
 | ACNEE con evaluación psicopedagógica y desfase curricular significativo en un área | ACIS por área | `plantillas/02-acis.md` |
 | Altas capacidades, al inicio de curso o mientras llega la información | Previo PIEC (medidas provisionales) | `plantillas/03-previo-piec.md` |
-| Altas capacidades con evaluación psicopedagógica | PIEC definitivo | `plantillas/04-piec.md` |
+| Altas capacidades con evaluación psicopedagógica (Primaria o ESO) | PIEC definitivo en la **plantilla única del Balder** | `plantillas/04-piec.md` (Word en Drive: «Plantilla_PIEC_Balder_Primaria_ESO.docx») |
 
 Si los datos no encajan (por ejemplo, se pide una ACIS sin evaluación psicopedagógica ni dictamen), dilo y propone el documento adecuado en lugar de forzar el que se pidió.
 
@@ -42,6 +42,7 @@ Si los datos no encajan (por ejemplo, se pide una ACIS sin evaluación psicopeda
 - La conducta no sustituye al aprendizaje del área en la calificación.
 - Indicadores observables y concretos («forma la palabra con letras móviles conservando el orden»), no genéricos («mejora la lectura»).
 - Temporalización inicial y revisable por trimestres; tabla de versiones con fecha y motivo.
+- PIEC (plantilla única): objetivos numerados por bloques — A intereses (catalizador), B fortalezas (don), C barreras, F familia — derivados de la descripción del alumno y citados por número en los elementos curriculares, en cada ficha de actividad y en la tabla de seguimiento. Cada actividad indica tipología, fechas, si cuenta para la evaluación y su peso (en blanco si el equipo no lo ha decidido) e instrumento (rúbrica de un solo punto Bloom por defecto). Contenidos del curso matriculado salvo ampliación acordada. Lo que solo aporta Orientación (PEAC, beca, gabinete, pruebas estandarizadas, contexto familiar, NIA) se deja en blanco y se lista como pendiente. Firmas: tutor/a, Orientación, Coordinación y Jefatura de estudios; queda adjunto al expediente. En 6.º de Primaria y 4.º de ESO, incluir el tránsito de etapa.
 - PIEC: compactación tras evaluación previa de la unidad, sustitución (no suma) de tareas, proyectos de investigación con libertad de formato, roles de creador y no solo de ayudante, y atención a lo socioafectivo (perfeccionismo, frustración, integración).
 - Promoción: la decide el equipo docente conforme a la normativa; la titulación no corresponde a Primaria.
 
@@ -63,5 +64,6 @@ Los documentos contienen datos de salud y de NEE de menores. No guardes nombres 
 - [ ] Cada criterio tiene al menos una tarea y un indicador observable.
 - [ ] Metodología, acceso a la evaluación y recursos están adaptados al perfil descrito.
 - [ ] Constan profesionales, sesiones, coordinación con la familia, seguimiento trimestral y firmas.
+- [ ] PIEC: cada objetivo numerado aparece en al menos una actividad y en la tabla de seguimiento con un indicador observable.
 - [ ] La evaluación se refiere a los criterios de la adaptación (ACIS) o del curso con indicadores de enriquecimiento (PIEC).
 - [ ] No hay datos inventados; los huecos están listados.

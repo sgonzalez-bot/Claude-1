@@ -1,77 +1,78 @@
-# PIEC — Plan Individualizado de Enriquecimiento Curricular (altas capacidades)
+# PIEC — Plan Individualizado de Enriquecimiento Curricular (plantilla única del Balder, Primaria y ESO)
 
-Fuente: «Plantillas de Registro – Aprendizaje Personalizado, ACIS y PIEC (Comunidad de Madrid)», documento 3, completado con la estructura de seguimiento de las ACIS del centro.
+Fuente: plantilla única acordada el 03/11/2026. Une el formato del centro con la información de las plantillas oficiales de PIEC de Primaria y de Secundaria (anexo IV.b). Versión Word en Drive: «Plantilla_PIEC_Balder_Primaria_ESO.docx».
 
-**Uso:** alumnado con altas capacidades intelectuales (AACC), identificado mediante evaluación psicopedagógica, o con alto rendimiento, que requiere enriquecimiento horizontal o profundización. Si el equipo acuerda ampliación vertical o flexibilización, se indica expresamente.
+**Uso:** alumnado con altas capacidades intelectuales identificado mediante evaluación psicopedagógica. Por defecto, enriquecimiento horizontal con contenidos del curso en que está matriculado; la ampliación o la flexibilización se indican expresamente.
 
-## 1. Datos del alumno/a
+**Reglas de la plantilla**
+- Objetivos numerados por bloques: **A** intereses, **B** fortalezas, **C** barreras, **F** familia (A1, A2, B1…). Se citan en las actividades y en el seguimiento.
+- Cada curso, los objetivos que se trabajan van en negrita y los alcanzados se tachan.
+- El texto de ayuda va en gris y cursiva y se borra al cumplimentar.
+- Lo que solo puede aportar Orientación (PEAC, pruebas estandarizadas, contexto familiar, NIA) se deja en blanco y se lista como pendiente.
 
-| Nombre del alumno/a | Curso/grupo | Fecha de inicio |
-| --- | --- | --- |
-| Tutor/a | Orientador/a responsable | Coordinación de Aprendizaje Personalizado |
-| Informe psicopedagógico (fecha y referencia) | Medida acordada: enriquecimiento / ampliación en ____ / flexibilización | Participación en PEAC: Sí / No |
+---
 
-## 2. Perfil de altas capacidades e intereses
+Encabezado: CENTRO BALDER · Departamento de Orientación y Coordinación de Aprendizaje Personalizado · **PIEC** · Etapa: ☐ Educación Primaria ☐ ESO · Curso escolar ____
 
-| Dimensiones destacadas | Intereses específicos | Aspectos socioafectivos a atender |
-| --- | --- | --- |
-| Razonamiento lógico · Creatividad / divergencia · Capacidad verbal · Memoria específica · (otras según informe) | p. ej. astronomía, robótica, escritura creativa, historia antigua | Perfeccionismo · Tolerancia a la frustración · Integración en el equipo / liderazgo |
+## 1. Datos personales y de escolarización
+Apellidos · Nombre · NIA · Fecha de nacimiento · Curso y grupo · Fecha de inicio del PIEC · Tutor/a · Orientador/a · Coordinación de Aprendizaje Personalizado · Informe psicopedagógico (fecha y referencia).
 
-## 3. Referencia curricular por áreas
+## 2. Información general (Sí / No + observaciones)
+Es perfil PEAC · Ha solicitado PEAC · Tiene plaza y asiste al PEAC (desde el curso…) · Solicita beca NEAE · Acude a gabinete externo · Acude a asociación de altas capacidades · Flexibilización realizada (nivel no cursado) · Programas del centro (☐ Maker ☐ Aula de Enriquecimiento de Arte ☐ Otro) · **Medida acordada:** ☐ enriquecimiento horizontal ☐ ampliación curricular en… ☐ propuesta de flexibilización.
 
-Referente: Decreto 61/2022, anexo II, curso real (__.º, __ ciclo). En ampliación vertical, indicar los criterios añadidos y su ciclo de origen.
+## 3. Análisis del alumno/a y objetivos del PIEC
+Cada bloque: recuadro «Para qué» + tabla de dos columnas **Descripción del alumno/a | Objetivos PIEC (numerados)**.
 
-| Área | Competencias específicas que se profundizan | Criterios (código) | Línea de enriquecimiento | Producto previsto |
-| --- | --- | --- | --- | --- |
+- **A. Intereses y preferencias (el catalizador).** Para qué: recuperar la motivación, desarrollar una potencialidad, impulsar el esfuerzo, abrir nuevas vías de interés si son muy focalizados o rígidos. Preguntas: tiempo libre, extraescolares, temas, tareas y agrupamientos preferidos, interés muy marcado. Campos: intereses, preferencias en tareas, agrupamientos, extraescolares y tiempo libre.
+- **B. Aspectos en los que destaca (el don).** Para qué: que crezca y se afiance, que lo use de forma constructiva y ética, autoconcepto ajustado. Preguntas: qué se le da bien; si se refleja en rendimiento, calificaciones y participación. Información cualitativa por categorías. **Tabla de pruebas estandarizadas** (Orientación): prueba · índice · PT/Pc · destrezas que ha de entrenar.
+- **C. Aspectos que mejorar (barreras).** Para qué: reducir limitaciones, atender su forma diferente de sentir y ser, aumentar las oportunidades del contexto. Preguntas: rendimiento menor respecto a sus fortalezas, disincronías, lo que rechaza; aspectos socioemocionales (intensidad emocional, herramientas, amistades, patio, expectativas propias o proyectadas). Información cualitativa. Tabla de pruebas: destrezas que han de ser atendidas.
+- **F. Contexto familiar.** Preguntas: expectativas sobre las altas capacidades, límites, manejo con hermanos y entorno, oportunidades culturales y económicas. Objetivos de apoyo F1, F2… (seguimiento desde tutoría y orientación).
 
-## 4. Estrategias de enriquecimiento y flexibilización en el aula
-
-| Línea de actuación | Estrategia concreta para el profesorado | X |
-| --- | --- | --- |
-| Compactación del currículo | Evaluación previa de la unidad: si demuestra dominio, exención de ejercicios repetitivos | |
-| | Sustitución de fichas ordinarias por retos de ampliación o problemas complejos | |
-| | Reducción de tareas para casa a favor de tareas de investigación | |
-| Proyectos de profundización | Proyecto de investigación autónomo sobre el tema de la unidad | |
-| | Libertad de formato en el producto final (vídeo, podcast, maqueta, software, ensayo) | |
-| | Rincones de investigación / aprendizaje autorregulado | |
-| Agrupamiento y rol | Tutoría entre iguales con roles variados (creador, no solo ayudante) | |
-| | Programas o talleres de enriquecimiento del centro o externos (PEAC) | |
-
-## 5. Proyecto(s) del trimestre
-
-| Trimestre | Proyecto / reto | Áreas y criterios | Calendario y entregas | Evidencia |
-| --- | --- | --- | --- | --- |
-| 1.º | | | | |
-| 2.º | | | | |
-| 3.º | | | | |
-
-## 6. Seguimiento y evaluación del PIEC
-
-Se evalúa con los criterios del curso (y los ampliados, si los hay). Los indicadores del PIEC valoran el enriquecimiento:
-
-| Criterio | Indicador de logro | 1.er T | 2.º T | 3.er T |
-| --- | --- | --- | --- | --- |
-| Autonomía y gestión | Planifica su tiempo y cumple las entregas del proyecto autónomo | | | |
-| Profundización | Demuestra comprensión avanzada y transferencia de conceptos clave | | | |
-| Creatividad y comunicación | Elabora productos originales y los comunica con rigor | | | |
-| Motivación y bienestar | Muestra implicación y satisfacción con las tareas adaptadas | | | |
-
-## 7. Coordinación, familia y revisiones
-
-| Profesional | Función |
-| --- | --- |
-| Tutor/a | Coordinación del plan y seguimiento del bienestar |
-| Docentes de área | Diseño de retos y evaluación |
-| Orientación | Asesoramiento y revisión psicopedagógica |
-
-Reunión con la familia: fecha ________ · Acuerdos: ________
-
-| Versión y fecha | Modificación | Motivo y acuerdo |
-| --- | --- | --- |
-| V1 · __/__/____ | | |
-
-| Tutor/a | Orientación | Coordinación de Aprendizaje Personalizado | Visto bueno de dirección |
+## 4. Elementos curriculares objeto de profundización
+| Área / materia | Competencias específicas y criterios de evaluación (código) | Contenidos del curso que se profundizan | Objetivos PIEC (nº) |
 | --- | --- | --- | --- |
-| Firma: | Firma: | Firma: | |
 
-**Normativa:** LOMLOE (atención al alumnado con altas capacidades), Decreto 23/2023 (medidas para AACC; PEAC, art. 16), Decreto 61/2022 (currículo), Orden 130/2023 (evaluación).
+Contenidos siempre del curso en el que está matriculado, salvo ampliación acordada.
+
+## 5. Actividades de enriquecimiento curricular
+Una ficha por actividad (puede ser interdisciplinar):
+
+| Campo | Contenido |
+| --- | --- |
+| Actividad n: título | |
+| Área(s) / materia(s) · Docente(s) responsable(s) | |
+| Objetivos PIEC (nº) · Fechas de inicio y fin | |
+| Tipología | investigación o monográfico, proyecto y defensa, presentación audiovisual, cuaderno de retos, mural, texto argumentativo, composición, prototipo… |
+| Descripción y elementos curriculares | |
+| Cuenta para la evaluación (Sí/No) · Peso en la calificación (%) | |
+| Instrumento de evaluación | rúbrica de un solo punto (Bloom) u otro |
+| Seguimiento del cumplimiento | desarrollo · propuestas de mejora |
+
+Tabla adicional: **Tutoría · Todas las áreas · Familia · Fuera del aula (Maker, Aula de Arte, PEAC)** con objetivos (nº), propuestas y temporalización, seguimiento.
+
+## 6. Estrategias de enriquecimiento en el aula (marcar)
+Compactación tras prueba previa · sustitución, no suma · proyecto ligado a intereses con libertad de formato · plan de trabajo con fases y entregas · agrupamiento con iguales afines y roles variados · estrategias socioafectivas · específicas.
+
+## 7. Evaluación y seguimiento de los objetivos
+El enriquecimiento no supone carga adicional ni puede bajar la calificación. Primaria: criterios del curso y calificación IN–SB (Orden 130/2023).
+
+| Objetivo | Indicador observable | 1.er T | 2.º T | 3.er T | Estado (en curso / alcanzado) |
+| --- | --- | --- | --- | --- | --- |
+
+Valoración: 1 = no observado · 2 = en proceso · 3 = adquirido · 4 = destacado.
+
+## 8. Calendario de seguimientos
+| Fecha | Asistentes | Acuerdos |
+| --- | --- | --- |
+| | Equipo docente y Orientación | Aprobación del PIEC |
+| | Familia, tutor/a | Información a la familia |
+| | | Revisión 1.ª y 2.ª evaluación |
+| | | Revisión final |
+
+## 9. Continuidad y registro de versiones
+Tránsito de etapa (6.º de Primaria o 4.º de ESO): trasladar medidas, intereses, objetivos alcanzados y aspectos socioafectivos al informe de final de etapa y al centro de destino. Tabla de versiones: versión y fecha · apartados modificados · motivo y acuerdo.
+
+## 10. Firmas
+Tutor/a · Orientación · Coordinación de Aprendizaje Personalizado · **Jefatura de estudios**. «Este PIEC quedará adjunto al expediente académico del alumno/a.»
+
+Normativa: LO 2/2006 modificada por la LO 3/2020 (LOMLOE); Decreto 23/2023; Decreto 61/2022 y Orden 130/2023 (Primaria); normativa de currículo y evaluación de ESO de la Comunidad de Madrid.
