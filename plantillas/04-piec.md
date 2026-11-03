@@ -8,7 +8,8 @@ Fuente: plantilla única acordada el 03/11/2026. Une el formato del centro con l
 - Objetivos numerados por bloques: **A** intereses, **B** fortalezas, **C** barreras, **F** familia (A1, A2, B1…). Se citan en las actividades y en el seguimiento.
 - Cada curso, los objetivos que se trabajan van en negrita y los alcanzados se tachan.
 - El texto de ayuda va en gris y cursiva y se borra al cumplimentar.
-- Lo que solo puede aportar Orientación (PEAC, pruebas estandarizadas, contexto familiar, NIA) se deja en blanco y se lista como pendiente.
+- No se incluyen PEAC, beca NEAE, gabinete externo ni asociación de altas capacidades (decisión del centro, 03/11/2026).
+- Lo que solo puede aportar Orientación (pruebas estandarizadas, contexto familiar, NIA) se deja en blanco y se lista como pendiente.
 
 ---
 
@@ -18,7 +19,7 @@ Encabezado: CENTRO BALDER · Departamento de Orientación y Coordinación de Apr
 Apellidos · Nombre · NIA · Fecha de nacimiento · Curso y grupo · Fecha de inicio del PIEC · Tutor/a · Orientador/a · Coordinación de Aprendizaje Personalizado · Informe psicopedagógico (fecha y referencia).
 
 ## 2. Información general (Sí / No + observaciones)
-Es perfil PEAC · Ha solicitado PEAC · Tiene plaza y asiste al PEAC (desde el curso…) · Solicita beca NEAE · Acude a gabinete externo · Acude a asociación de altas capacidades · Flexibilización realizada (nivel no cursado) · Programas del centro (☐ Maker ☐ Aula de Enriquecimiento de Arte ☐ Otro) · **Medida acordada:** ☐ enriquecimiento horizontal ☐ ampliación curricular en… ☐ propuesta de flexibilización.
+Flexibilización realizada (nivel no cursado) · Programas del centro (☐ Maker ☐ Aula de Enriquecimiento de Arte ☐ Otro) · **Medida acordada:** ☐ enriquecimiento horizontal ☐ ampliación curricular en… ☐ propuesta de flexibilización.
 
 ## 3. Análisis del alumno/a y objetivos del PIEC
 Cada bloque: recuadro «Para qué» + tabla de dos columnas **Descripción del alumno/a | Objetivos PIEC (numerados)**.
@@ -48,7 +49,7 @@ Una ficha por actividad (puede ser interdisciplinar):
 | Instrumento de evaluación | rúbrica de un solo punto (Bloom) u otro |
 | Seguimiento del cumplimiento | desarrollo · propuestas de mejora |
 
-Tabla adicional: **Tutoría · Todas las áreas · Familia · Fuera del aula (Maker, Aula de Arte, PEAC)** con objetivos (nº), propuestas y temporalización, seguimiento.
+Tabla adicional: **Tutoría · Todas las áreas · Familia · Fuera del aula (Maker, Aula de Arte)** con objetivos (nº), propuestas y temporalización, seguimiento.
 
 ## 6. Estrategias de enriquecimiento en el aula (marcar)
 Compactación tras prueba previa · sustitución, no suma · proyecto ligado a intereses con libertad de formato · plan de trabajo con fases y entregas · agrupamiento con iguales afines y roles variados · estrategias socioafectivas · específicas.
