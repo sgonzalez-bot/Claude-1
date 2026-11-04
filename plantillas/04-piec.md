@@ -8,8 +8,8 @@ Fuente: plantilla única acordada el 03/11/2026. Une el formato del centro con l
 - Objetivos numerados por bloques: **A** intereses, **B** fortalezas, **C** barreras, **F** familia (A1, A2, B1…). Se citan en las actividades y en el seguimiento.
 - Cada curso, los objetivos que se trabajan van en negrita y los alcanzados se tachan.
 - El texto de ayuda va en gris y cursiva y se borra al cumplimentar.
-- No se incluyen PEAC, beca NEAE, gabinete externo ni asociación de altas capacidades (decisión del centro, 03/11/2026).
-- Lo que solo puede aportar Orientación (pruebas estandarizadas, contexto familiar, NIA) se deja en blanco y se lista como pendiente.
+- No se incluyen PEAC, beca NEAE, gabinete externo, asociación de altas capacidades ni pruebas estandarizadas (decisión del centro, 03–04/11/2026).
+- Lo que solo puede aportar Orientación (contexto familiar, NIA) se deja en blanco y se lista como pendiente.
 
 ---
 
@@ -25,8 +25,8 @@ Flexibilización realizada (nivel no cursado) · Programas del centro (☐ Maker
 Cada bloque: recuadro «Para qué» + tabla de dos columnas **Descripción del alumno/a | Objetivos PIEC (numerados)**.
 
 - **A. Intereses y preferencias (el catalizador).** Para qué: recuperar la motivación, desarrollar una potencialidad, impulsar el esfuerzo, abrir nuevas vías de interés si son muy focalizados o rígidos. Preguntas: tiempo libre, extraescolares, temas, tareas y agrupamientos preferidos, interés muy marcado. Campos: intereses, preferencias en tareas, agrupamientos, extraescolares y tiempo libre.
-- **B. Aspectos en los que destaca (el don).** Para qué: que crezca y se afiance, que lo use de forma constructiva y ética, autoconcepto ajustado. Preguntas: qué se le da bien; si se refleja en rendimiento, calificaciones y participación. Información cualitativa por categorías. **Tabla de pruebas estandarizadas** (Orientación): prueba · índice · PT/Pc · destrezas que ha de entrenar.
-- **C. Aspectos que mejorar (barreras).** Para qué: reducir limitaciones, atender su forma diferente de sentir y ser, aumentar las oportunidades del contexto. Preguntas: rendimiento menor respecto a sus fortalezas, disincronías, lo que rechaza; aspectos socioemocionales (intensidad emocional, herramientas, amistades, patio, expectativas propias o proyectadas). Información cualitativa. Tabla de pruebas: destrezas que han de ser atendidas.
+- **B. Aspectos en los que destaca (el don).** Para qué: que crezca y se afiance, que lo use de forma constructiva y ética, autoconcepto ajustado. Preguntas: qué se le da bien; si se refleja en rendimiento, calificaciones y participación. Información cualitativa por categorías.
+- **C. Aspectos que mejorar (barreras).** Para qué: reducir limitaciones, atender su forma diferente de sentir y ser, aumentar las oportunidades del contexto. Preguntas: rendimiento menor respecto a sus fortalezas, disincronías, lo que rechaza; aspectos socioemocionales (intensidad emocional, herramientas, amistades, patio, expectativas propias o proyectadas). Información cualitativa.
 - **F. Contexto familiar.** Preguntas: expectativas sobre las altas capacidades, límites, manejo con hermanos y entorno, oportunidades culturales y económicas. Objetivos de apoyo F1, F2… (seguimiento desde tutoría y orientación).
 
 ## 4. Elementos curriculares objeto de profundización
